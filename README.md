@@ -1,5 +1,5 @@
 - 👋 Hi, I am Vinay Halappa. 
-- 👀 I am intreated in Product Management, Coding, Devops and Cloud Soltions
+- 👀 I am intreated in Product Management, Coding, Devops and Cloud Solutions(AWS and Azure)
 - 🌱 I’m currently learning Python for AI/ML
 - 💞️ I’m looking to collaborate on Product management and Development
 - 📫 You can reach me at vinaygh32[at]gmail[dot]com
